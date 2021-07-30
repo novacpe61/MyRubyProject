@@ -1,2 +1,3 @@
 # MyRubyProject
-It's my experimental project.
+Hello everone. 
+These files are my experiments.
